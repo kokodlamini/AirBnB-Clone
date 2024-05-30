@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mpho Buthelezi",
+      "email": "Buthelezi@123.com",
+      "phone": "061 379 3011"
+    },
+    {
+      "id": "2",
+      "email": "Buthelezi@123.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3",
+      "email": "Buthelezi@123.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4",
+      "email": "mpho98@gmail.com",
+      "password": "223344556677"
+    }
+  ],
+  "bookings": [
+    {
+      "listingid": 1,
+      "startDate": "2024-04-20",
+      "endDate": "2024-04-27",
+      "useId": "1",
+      "id": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "img": "https://a0.muscache.com/im/pictures/6b008ffe-2029-439c-88de-9ca47255339e.jpg?im_w=720",
+      "title": "Entire cottage in Robertson, South Africa",
+      "description": "led by the world of hosts",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 985,
+      "address": "Block A Street",
+      "city": "Carletonville",
+      "street": "EXT 7",
+      "price": "R6000",
+      "sq_ft": "4.2",
+      "email": "Buthelzi@123.com",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "img": "https://a0.muscache.com/im/pictures/6b008ffe-2029-439c-88de-9ca47255339e.jpg?im_w=720",
+      "title": "Entire cottage in Robertson, South Africa",
+      "description": "led by the world of hosts",
+      "bath_num": 2,
+      "bed_num": 8,
+      "zip": 2499,
+      "address": "Block C Street",
+      "city": "Carletonville",
+      "street": "EXT 4",
+      "price": "R3500",
+      "sq_ft": "7.1",
+      "email": "mpho98@gmail.com",
+      "userId": "2"
+    }
+  ]
+}
